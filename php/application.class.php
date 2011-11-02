@@ -1,6 +1,6 @@
 <?php
 
-/* filename: class.Application.php        *
+/* filename: Application.class.php        *
  * Application class, includes methods to *
  * get set application variables by       *
  * storing serialized values to tempfiles */
